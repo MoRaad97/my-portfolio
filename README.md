@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://moraad97.github.io/portfolio-website-Microverse-project/)
+[Netlify Live Demo Link](https://mohammed-raad-portoflio.netlify.app/)
 
 ## Getting Started
 
